@@ -1,0 +1,23 @@
+body{
+  font-family: 'Dosis', sans-serif;
+}
+.test [class^=col-] p{
+  background:#78e6b4;
+        min-height:70px;
+        line-height:70px;
+        font-weight:normal;
+        text-align:center;
+        border:1px solid #eee;
+        color:#212121;
+        display:block;
+        margin-bottom:30px;
+      }
+.head h1,p{
+  text-align: center;
+  color: #30b579;
+}
+
+.head span{
+  text-align: center;
+  color: #e040fb;
+}
