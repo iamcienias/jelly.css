@@ -73,7 +73,7 @@
 }
 
 
-/* breakpoint 1 - smartphone */
+/* smartphone */
 @media only screen and (min-width: 500px){
 
 /* width */
@@ -118,7 +118,7 @@
 }
 }
 
-/* breakpoint 2 - ipad */
+/* ipad */
 
 @media only screen and (min-width: 800px){
 
@@ -164,7 +164,7 @@
 }
 }
 
-/* breakpoint 3 - desktop */
+/* desktop */
 
 @media only screen and (min-width: 1200px){
 
