@@ -1,23 +1,48 @@
-body{
-  font-family: 'Dosis', sans-serif;
-}
-.test [class^=col-] p{
-  background:#78e6b4;
-        min-height:70px;
-        line-height:70px;
-        font-weight:normal;
-        text-align:center;
-        border:1px solid #eee;
-        color:#212121;
-        display:block;
-        margin-bottom:30px;
-      }
-.head h1,p{
+/*.grid [class*="col-"]{
+  margin-bottom: 5px;
   text-align: center;
-  color: #30b579;
+  padding: 15px;
+}
+*/
+
+
+
+body{
+  background: #000D21;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  color: #eee;
+
+
 }
 
-.head span{
-  text-align: center;
-  color: #e040fb;
+h2, h1{
+  color: #1bb5aa;
+}
+
+span{
+  background: #eee;
+min-height: 60px;
+line-height: 60px;
+font-weight: normal;
+text-align: center;
+border: 2px solid #e80cc9;
+color: #e80cc9;
+display: block;
+margin-bottom: 30px;
+}
+
+.jelly{
+  background-image: url('../img/jelly-logo.png');
+  background-repeat: no-repeat;
+  height: 256px;
+  background-position: center;
+}
+
+footer {
+  padding:30px 0;
+  border-top: 3px solid #1bb5aa;
+}
+a{
+  color: #1bb5aa;
 }
